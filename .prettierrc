@@ -1,0 +1,13 @@
+{
+  "tabWidth": 4,
+  "useTabs": true,
+  "printWidth": 105,
+  "overrides": [
+    {
+      "files": "yourfile.json",
+      "options": {
+        "parser": "json"
+      }
+    }
+  ]
+}
